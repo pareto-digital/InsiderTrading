@@ -20,3 +20,9 @@ Lists such individuals as:
 ## Financial Disclosure Reports
 #### https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure
 Copy Document ID and google
+
+
+## How to Run the Code
+Just type "python main.py" in your command line to run the main.py file. It will download all the docs to your local directory and generate a csv file
+named pelosi_option_trading.csv which contains Nancy's option trading records from the year 2019 to the year 2021. We will
+update our code later to enable users to customize their inputs as the person's name, the trading year, etc. 
